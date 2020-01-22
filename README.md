@@ -4,13 +4,13 @@
 
 ### Links and Resources
 
-- [Sandbox URL](https://codesandbox.io/embed/lab-26-ko5do?fontsize=14&hidenavigation=1&theme=dark)
+- [Sandbox URL](https://codesandbox.io/embed/lab-26-extended-oz4ft?fontsize=14&hidenavigation=1&theme=dark)
 
-- [Netlify Site](https://csb-ko5do.netlify.com/)
+- [Netlify Site](https://csb-oz4ft.netlify.com/)
 
 ### Instructions
 
-#### In order to run this app, simply choose an item, and add it to your cart. Then click on the "Cart" link in the top right of the application to view the items and amounts in the cart
+#### In order to run this app, simply search for the music tracks you're looking for, and add the tracks you like to your cart. Then click on the "Library" link on the top of the application to view the items currently in your library
 
 ### UML
 
